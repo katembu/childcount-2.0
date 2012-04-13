@@ -1,0 +1,39 @@
+test_serum_glucose  = RB
+test_urinalysis
+test_rapid_plasma
+test_blood_count
+test_cd4
+test_treponema
+test_hiv_viral
+test_hemoglobin
+test_serum_glutamic
+test_serum_cretinine
+test_urnary_albumin
+test_urine_dipstick
+test_xray_chest
+test_hiv_enzyme
+test_hiv_dna 
+test_blood_typing = BG
+test_erythrocyte = ES
+test_whitecell
+test_other_noncoded
+test_urine_protein
+test_sputum_three
+test_computed_scan
+test_brucella 
+test_electroencephalogram
+test_widaltest  = WT
+test_serum_glutamic_oxaloacetic_transaminase
+test_tuberculin
+test_serum_electrolytes
+test_urine_pregnancy
+test_sputum_gram
+test_sputum_for_acid_fast_bacilli
+test_rdt
+test_vdrl = SY (Syphilis)
+test_malaria_smear_qualitative = MP (malaria parasite)
+test_none
+test_malarial_smear
+test_platelets  = PL
+test_hematocrit
+test_stool
